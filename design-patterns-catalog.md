@@ -35,10 +35,10 @@ Attach additional responsibilities to an object dynamically. Decorators provide 
 Provide a unified interface to a set of interfaces in a subsystem. Facade defines a higher-level interface that makes the subsystem easier to use.
 
 ## Factory Method    
-Define an interface for creating an object, but let subclasses decide which class to instantiate. Factory Method lets a class defer instantiation Design Patterns: Elements of Reusable Object-Oriented Software to subclasses.
+Define an interface for creating an object, but let subclasses decide which class to instantiate. Factory Method lets a class defer instantiation to subclasses.
 
 ## Flyweight    
-Use haring o upport arge umbers f ine-grained bjects fficiently.
+Use sharing to support large numbers of fine-grained objects efficiently.
 
 ## Interpreter    
 Given a language, define a represention for its grammar along with an interpreter that uses the representation to interpret sentences in the language.
