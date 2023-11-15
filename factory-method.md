@@ -1,6 +1,6 @@
 # Factory Method and Examples
 
-> Define an interface for creating an object, but let subclasses decide which class to instantiate. Factory Method lets a class defer instantiation to subclasses.
+> Define an interface for creating an object, **but let subclasses decide which class to instantiate**. Factory Method lets a class defer instantiation to subclasses.
 
 Definitions of the codes are below them.
 
@@ -140,7 +140,7 @@ console.log("What is the color of the door?", brown_door.get_color());
 > - The get_width(), get_height(), and get_color() methods are implemented to return the corresponding values.
 > - We create a brown_door object with the Color.Walnut enum variant to specify the color.
 >
-> This TypeScript code mirrors the structure and behavior of the Rust code you provided, making it a TypeScript equivalent of the original Rust code.>  
+> This TypeScript code mirrors the structure and behavior of the Rust code you provided, making it a TypeScript equivalent of the original Rust code.
 
 
 ## Example in C++
